@@ -40,10 +40,9 @@ form input {
     margin: 10px 0;
     border: none;
     border-radius: 5px;
-}
-
-form input::placeholder {
-    color: #ccc;
+    
+    background: white;
+    color: black;
 }
 
 form button {
