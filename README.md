@@ -1,44 +1,61 @@
-Student Registration System
-About
+📚 Student Registration System
+📌 Overview
 
-This is a simple project made using HTML, CSS and JavaScript.
-It allows users to add student details and manage them easily.
+This is a simple Student Registration System built using HTML, CSS, and JavaScript.
+It allows users to add, view, edit, and delete student records.
+All data is stored in the browser using localStorage, so it remains saved even after refreshing the page.
 
-Features
+🚀 Features
 
-Add student details
+➕ Add new student details
 
-View students in a table
+📋 Display all students in a table
 
-Edit student data
+✏️ Edit existing student information
 
-Delete student
+❌ Delete student records
 
-Data is saved in browser (localStorage)
+💾 Data stored in localStorage
 
-How to Use
+✅ Form validation using JavaScript
 
-Open the project in browser
+🛠️ Technologies Used
 
-Fill the form
+HTML
 
-Click submit
+CSS
 
-Data will appear in the table
+JavaScript (Vanilla JS)
 
-Files
+LocalStorage
 
-index.html
+📂 Project Structure
+project-folder/
+│── index.html
+│── style.css
+│── script.js
+⚙️ How It Works
 
-style.css
+User fills the form with student details
 
-script.js
+On submit:
 
-Note
+Data is validated
 
-Data is stored only in browser
+If ID exists → update student
 
-It will not be saved online
+Else → add new student
 
-Author
-Maneesh Kumar
+Data is saved in localStorage
+
+Table updates automatically
+
+▶️ How to Run
+
+Download or clone the project
+
+Open index.html in your browser
+
+Start adding students
+
+
