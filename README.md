@@ -58,4 +58,8 @@ Open index.html in your browser
 
 Start adding students
 
+## Live Demo
+
+👉 https://usermanny.github.io/Student-Registration-System-DOM/
+
 
