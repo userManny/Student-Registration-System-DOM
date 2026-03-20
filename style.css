@@ -42,6 +42,10 @@ form input {
     border-radius: 5px;
 }
 
+form input::placeholder {
+    color: #ccc;
+}
+
 form button {
     width: 100%;
     padding: 10px;
