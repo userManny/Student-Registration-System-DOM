@@ -1,4 +1,4 @@
-let students = JSON.parse(localStorage.getItem("students")) || [];
+let students = JSON.parse(localStorage.getItem("students")) || [];   
 
 const form = document.getElementById("studentForm");
 const table = document.getElementById("studentTable");
